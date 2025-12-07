@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --name "MCES10 Software AI Dataset Utility" --icon Icon.png datasetsetup.py
